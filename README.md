@@ -1,6 +1,7 @@
 # Sample Hardhat Project
 
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+This project is a cloned version of the [hardhat-fund-me-fcc](https://github.com/PatrickAlphaC/hardhat-fund-me-fcc) project.
 
 Try running some of the following tasks:
 
